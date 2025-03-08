@@ -1,4 +1,4 @@
-#Remote File
+# Remote File
 This file was added remotely. We'll try to pull this file into the local system using:
 git pull
 
@@ -7,3 +7,8 @@ git pull
 - Make changes on the file remotely.
 - Try to merge the changes.
 - push the final result to origin.
+
+___
+
+These are the changes made locally
+The changes to focus on are on lines 13 and 14.
