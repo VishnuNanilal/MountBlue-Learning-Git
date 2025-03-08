@@ -7,3 +7,8 @@ git pull
 - Make changes on the file remotely.
 - Try to merge the changes.
 - push the final result to origin.
+
+___
+
+#### Remote changes
+- These changes are done remotely.
