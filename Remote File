@@ -1,0 +1,9 @@
+#Remote File
+This file was added remotely. We'll try to pull this file into the local system using:
+git pull
+
+#### Further operations
+- Make changes on the pulled file locally.
+- Make changes on the file remotely.
+- Try to merge the changes.
+- push the final result to origin.
